@@ -1,0 +1,18 @@
+header, footer { background: #383838; color: white; }
+
+html, body { margin: 0; padding: 0; }
+
+* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; font-family: sans-serif; }
+
+img { max-width: 100%; }
+
+h1, h2, h3, h4, h5, h6 { font-family: 'Lato', sans-serif; }
+
+.wrap, .header-inner, .footer-inner { overflow: hidden; *zoom: 1; max-width: 1024px; margin: 0 auto; }
+
+footer { padding: 10px; }
+
+.main { width: 66%; float: left; }
+
+.sidebar { width: 34%; float: right; padding: 20px; }
+.sidebar img { margin-bottom: 20px; }
