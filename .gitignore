@@ -1,2 +1,10 @@
-.sass-cache
+*.swp
+*-ck.js
 *.css
+.DS_Store
+.sass-cache
+.htpasswd
+.bundle
+compass_app_log.txt
+*.sublime-*
+sass/.DS_Store
